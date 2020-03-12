@@ -1,3 +1,5 @@
+%Convert r-value to p-value
+
 function [p t] = rtop(r,n)
 
 format long
